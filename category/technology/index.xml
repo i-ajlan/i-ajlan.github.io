@@ -5,12 +5,261 @@
     <link>https://example.com/category/technology/</link>
       <atom:link href="https://example.com/category/technology/index.xml" rel="self" type="application/rss+xml" />
     <description>technology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jun 2022 19:10:23 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jun 2022 22:07:02 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>technology</title>
       <link>https://example.com/category/technology/</link>
     </image>
+    
+    <item>
+      <title>Make_presentation</title>
+      <link>https://example.com/post/make_presentation/</link>
+      <pubDate>Mon, 13 Jun 2022 22:07:02 +0300</pubDate>
+      <guid>https://example.com/post/make_presentation/</guid>
+      <description>&lt;h1 id=&#34;make-presentation&#34;&gt;Make Presentation&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Analyze your audience&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The first step in preparing a presentation is to learn more about the audience to whom you&amp;rsquo;ll be speaking. It&amp;rsquo;s a good idea to obtain some information on the backgrounds, values, and interests of your audience so that you understand what the audience members might expect from your presentation.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Select a topic&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Next, if possible select a topic that is of interest to the audience and to you. It will be much easier to deliver a presentation that the audience finds relevant, and more enjoyable to research a topic that is of interest to you.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Define the objective of the presentation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once you have selected a topic, write the objective of the presentation in a single concise statement. The objective needs to specify exactly what you want your audience to learn from your presentation. Base the objective and the level of the content on the amount of time you have for the presentation and the background knowledge of the audience. Use this statement to help keep you focused as you research and develop the presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report_lab1</title>
+      <link>https://example.com/post/report_lab1/</link>
+      <pubDate>Mon, 13 Jun 2022 22:05:47 +0300</pubDate>
+      <guid>https://example.com/post/report_lab1/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Целью данной работы является приобретение практических навыков установки операционной системы на виртуальную машину, настройки минимально необходимых для дальнейшей работы сервисов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ход-работы&#34;&gt;Ход работы&lt;/h1&gt;
+&lt;p&gt;Сначала, Я скачал дистрибутив Fedora с этого сайта. (рис. [-@fig:001])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fedora&#34; srcset=&#34;
+               /post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_0be2ccf9ec668943b7fe7d2172f4df21.webp 400w,
+               /post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_9817f327b3892ca7eed87eb1cc994c79.webp 760w,
+               /post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_0be2ccf9ec668943b7fe7d2172f4df21.webp&#34;
+               width=&#34;680&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:001 width=70% }&lt;/p&gt;
+&lt;p&gt;Я его установил в виртуальном машине. (рис. [-@fig:002])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Virtual Box&#34; srcset=&#34;
+               /post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_189508426babd8190b2acdb1e9fa4b3d.webp 400w,
+               /post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_6fc33bad90bd173af0849d8d30449af2.webp 760w,
+               /post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_189508426babd8190b2acdb1e9fa4b3d.webp&#34;
+               width=&#34;712&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:002 width=70% }&lt;/p&gt;
+&lt;p&gt;Я сделал некоторые настройки для лучшего использования Fedora в виртуальной машине. (рис. [-@fig:003])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Configurations&#34; srcset=&#34;
+               /post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_20e8699da1d5a52874bdee1a34b29b60.webp 400w,
+               /post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_e88a48bc6c2107746fdba117f1792289.webp 760w,
+               /post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_20e8699da1d5a52874bdee1a34b29b60.webp&#34;
+               width=&#34;708&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:003 width=70% }&lt;/p&gt;
+&lt;p&gt;Я создал учетную запись пользователя и пароль (рис. [-@fig:004])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Password&#34; srcset=&#34;
+               /post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_3e94ee441299dbef757cae7dd799e6dc.webp 400w,
+               /post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_b2ce0e19927c6b825d1378ed4e0d744b.webp 760w,
+               /post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_3e94ee441299dbef757cae7dd799e6dc.webp&#34;
+               width=&#34;672&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:004 width=70% }&lt;/p&gt;
+&lt;p&gt;С командой hostnamectl, Проверил, что имя хоста установлено верно. (рис. [-@fig:005])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hostnamectl&#34; srcset=&#34;
+               /post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_7cc1c3e8e99994cb8a463efe58e50343.webp 400w,
+               /post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_8b62cadc2494bb6df8e17f4666db46fe.webp 760w,
+               /post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_7cc1c3e8e99994cb8a463efe58e50343.webp&#34;
+               width=&#34;668&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:005 width=70% }&lt;/p&gt;
+&lt;p&gt;проанализировал последовательность загрузки системы, выполнив команду dmesg. (рис. [-@fig:006])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Command dmesg&#34; srcset=&#34;
+               /post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_fc7b0630eedf70d4aace0b7f624b37b5.webp 400w,
+               /post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_ac1af6dbef5d5ef90361c7bec27fac1f.webp 760w,
+               /post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_fc7b0630eedf70d4aace0b7f624b37b5.webp&#34;
+               width=&#34;674&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:006 width=70% }&lt;/p&gt;
+&lt;h1 id=&#34;контрольные-вопросы&#34;&gt;Контрольные вопросы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Какую информацию содержит учётная запись пользователя?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;учётная запись пользователя содержит имя пользователя.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Укажите команды терминала и приведите примеры:
+– для получения справки по команде
+Мы можем использавать &amp;ndash;help. Наприме: cd &amp;ndash;help.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;для перемещения по файловой системе;
+Мы можем использавать cd. Например: cd ~.
+– для просмотра содержимого каталога;
+Мы можем использавать ls. Например: ls ~/Desktop/.
+– для определения объёма каталога;
+Мы можем использавать du. Например: du ~/Desktop/.
+– для создания / удаления каталогов / файлов;
+Мы можем использавать mkdir для создания каталогов. Например: mkdir ~/docu/.
+Мы можем использавать rmdir для удаления каталогов. Например: rmdir ~/docu/.
+Мы можем использавать touch для создания файлов. Например: touch ~/Desktop/text.txt.
+Мы можем использавать rm для удаления файлов. Например: rm ~/Desktop/text.txt.
+-для задания определённых прав на файл / каталог
+Мы можем использавать chmod. Например: chmod u+w ~/Desktop/direc
+– для просмотра истории команд.
+Мы можем использавать history. Например: history.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Что такое файловая система? Приведите примеры с краткой характеристикой.
+файловая система— это метод и структура данных, которые операционная система использует для управления хранением данных.&lt;/li&gt;
+&lt;li&gt;Как посмотреть, какие файловые системы подмонтированы в ОС?
+Мы можем использавать fsck.&lt;/li&gt;
+&lt;li&gt;Как удалить зависший процесс?
+Мы можем использавать CTRL + C.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Во время этой лабораторной работы, мы мы научились работать с виртуальной машиной и устанавливать на нее дистрибутив Linux.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Languge_markdown</title>
@@ -54,10 +303,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GitHub&#34; srcset=&#34;
-               /post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_62b27bba3bfedfc356cf0b5e3a91c2f7.webp 400w,
+               /post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_a566f09e69a495ea28f101443566016a.webp 400w,
                /post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_25c4f11009d6d826ae15386d794a91fc.webp 760w,
                /post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_62b27bba3bfedfc356cf0b5e3a91c2f7.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_a566f09e69a495ea28f101443566016a.webp&#34;
                width=&#34;657&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -83,10 +332,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Installation&#34; srcset=&#34;
-               /post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_3c16dd20097cabfef8d68401b4665e2b.webp 400w,
+               /post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_1ee427c535785d01b6f99001d7ade5d7.webp 400w,
                /post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_71f1adea37111fae0d2e80613db10a6e.webp 760w,
                /post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_3c16dd20097cabfef8d68401b4665e2b.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_1ee427c535785d01b6f99001d7ade5d7.webp&#34;
                width=&#34;643&#34;
                height=&#34;757&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -112,10 +361,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Configurations&#34; srcset=&#34;
-               /post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_bc5005ecd325fbbd02ac4e58c3a590da.webp 400w,
+               /post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_78340e79171e35cb4a0cfac2e190e5ff.webp 400w,
                /post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_f1648b42802020744d6c8134b30c94c1.webp 760w,
                /post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_bc5005ecd325fbbd02ac4e58c3a590da.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_78340e79171e35cb4a0cfac2e190e5ff.webp&#34;
                width=&#34;675&#34;
                height=&#34;749&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -141,10 +390,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GPG key&#34; srcset=&#34;
-               /post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_e6f323f77f8981359b9b8bf59808c73d.webp 400w,
+               /post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_62c4b5f12ee1d799579e89d865319158.webp 400w,
                /post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_bd09090486da05bab623b32bce471088.webp 760w,
                /post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_e6f323f77f8981359b9b8bf59808c73d.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_62c4b5f12ee1d799579e89d865319158.webp&#34;
                width=&#34;668&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -170,10 +419,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SSH key&#34; srcset=&#34;
-               /post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_eea8417ec7a410cd677288a71c305b9e.webp 400w,
+               /post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_eb9e72d29648e1fa412cb108190a4c65.webp 400w,
                /post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_f108d42de34ef6394ce4992e9a7435de.webp 760w,
                /post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_eea8417ec7a410cd677288a71c305b9e.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_eb9e72d29648e1fa412cb108190a4c65.webp&#34;
                width=&#34;641&#34;
                height=&#34;707&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -199,10 +448,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SSH and GPG keys on GitHub&#34; srcset=&#34;
-               /post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_e6ce3f37569cfdeedb48be992453d396.webp 400w,
+               /post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_1e67bc951f8e9352dd1d4b026dcc41ba.webp 400w,
                /post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_1855b1f43d4605068e003d3e83e913d9.webp 760w,
                /post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_e6ce3f37569cfdeedb48be992453d396.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_1e67bc951f8e9352dd1d4b026dcc41ba.webp&#34;
                width=&#34;760&#34;
                height=&#34;642&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -228,10 +477,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Repository cloned&#34; srcset=&#34;
-               /post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_e510fa13ee61e59ebd980b064591aec4.webp 400w,
+               /post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_3ca884ffc674bb623e54dccab83b0fb7.webp 400w,
                /post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_6712a14e2bf3fba46b9fbacc6b8adef1.webp 760w,
                /post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_e510fa13ee61e59ebd980b064591aec4.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_3ca884ffc674bb623e54dccab83b0fb7.webp&#34;
                width=&#34;760&#34;
                height=&#34;675&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -257,10 +506,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Repository on GitHub&#34; srcset=&#34;
-               /post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_400ca274e3861cf766fd79e3e2811714.webp 400w,
+               /post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_a0891d601e8d6e4beb879aaf712f4079.webp 400w,
                /post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_e3fc838cd11b92e27ba4911c399a21d6.webp 760w,
                /post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_400ca274e3861cf766fd79e3e2811714.webp&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_a0891d601e8d6e4beb879aaf712f4079.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
