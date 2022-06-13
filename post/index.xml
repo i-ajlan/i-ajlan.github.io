@@ -5,12 +5,650 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jun 2022 19:10:23 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Languge_markdown</title>
+      <link>https://example.com/post/languge_markdown/</link>
+      <pubDate>Mon, 13 Jun 2022 19:10:23 +0300</pubDate>
+      <guid>https://example.com/post/languge_markdown/</guid>
+      <description>&lt;h1 id=&#34;markodown&#34;&gt;Markodown&lt;/h1&gt;
+&lt;p&gt;Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
+&lt;p&gt;The initial description of Markdown[10] contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.[11]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repot_lab_2</title>
+      <link>https://example.com/post/repot_lab_2/</link>
+      <pubDate>Mon, 13 Jun 2022 19:08:52 +0300</pubDate>
+      <guid>https://example.com/post/repot_lab_2/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучить идеологию и применение средств контроля версий.&lt;/li&gt;
+&lt;li&gt;Освоить умения по работе с git.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ход-работы&#34;&gt;Ход Работы&lt;/h1&gt;
+&lt;p&gt;Я создал Чётную запись на сайте Github. (рис. [-@fig:001])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GitHub&#34; srcset=&#34;
+               /post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_62b27bba3bfedfc356cf0b5e3a91c2f7.webp 400w,
+               /post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_25c4f11009d6d826ae15386d794a91fc.webp 760w,
+               /post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/1_hu91a21344688b3f4f3d94a64ed5d8109b_65626_62b27bba3bfedfc356cf0b5e3a91c2f7.webp&#34;
+               width=&#34;657&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:001 width=70% }&lt;/p&gt;
+&lt;p&gt;Я установил GitHub на Linux. (рис. [-@fig:002])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Installation&#34; srcset=&#34;
+               /post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_3c16dd20097cabfef8d68401b4665e2b.webp 400w,
+               /post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_71f1adea37111fae0d2e80613db10a6e.webp 760w,
+               /post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/2_hua2cc8909265ed677a4c12c9b4bf63b94_42423_3c16dd20097cabfef8d68401b4665e2b.webp&#34;
+               width=&#34;643&#34;
+               height=&#34;757&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:002 width=70% }&lt;/p&gt;
+&lt;p&gt;Я сделал некоторые настройки. (рис. [-@fig:003])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Configurations&#34; srcset=&#34;
+               /post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_bc5005ecd325fbbd02ac4e58c3a590da.webp 400w,
+               /post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_f1648b42802020744d6c8134b30c94c1.webp 760w,
+               /post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/3_hu8c35369dd853ad9267057c7d0941a559_53187_bc5005ecd325fbbd02ac4e58c3a590da.webp&#34;
+               width=&#34;675&#34;
+               height=&#34;749&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:003 width=70% }&lt;/p&gt;
+&lt;p&gt;Я создал ключ GPG. (рис. [-@fig:004])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GPG key&#34; srcset=&#34;
+               /post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_e6f323f77f8981359b9b8bf59808c73d.webp 400w,
+               /post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_bd09090486da05bab623b32bce471088.webp 760w,
+               /post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/4_hu3bee42c9adab143956fe432b64496a08_52994_e6f323f77f8981359b9b8bf59808c73d.webp&#34;
+               width=&#34;668&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:004 width=70% }&lt;/p&gt;
+&lt;p&gt;Я создал ключ SSH. (рис. [-@fig:005])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SSH key&#34; srcset=&#34;
+               /post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_eea8417ec7a410cd677288a71c305b9e.webp 400w,
+               /post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_f108d42de34ef6394ce4992e9a7435de.webp 760w,
+               /post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/5_hu595ff7efd9b47ce0afe47d8508af2c6f_72166_eea8417ec7a410cd677288a71c305b9e.webp&#34;
+               width=&#34;641&#34;
+               height=&#34;707&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:005 width=70% }&lt;/p&gt;
+&lt;p&gt;Я установил эти ключи на моей чётной записью в GitHub. (рис. [-@fig:006])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SSH and GPG keys on GitHub&#34; srcset=&#34;
+               /post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_e6ce3f37569cfdeedb48be992453d396.webp 400w,
+               /post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_1855b1f43d4605068e003d3e83e913d9.webp 760w,
+               /post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/6_hu71b19daadc447d01cf0cb62c6660b88b_95074_e6ce3f37569cfdeedb48be992453d396.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;642&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:006 width=70% }&lt;/p&gt;
+&lt;p&gt;Я клонировал репозиторий в моём компьютере. (рис. [-@fig:007])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Repository cloned&#34; srcset=&#34;
+               /post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_e510fa13ee61e59ebd980b064591aec4.webp 400w,
+               /post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_6712a14e2bf3fba46b9fbacc6b8adef1.webp 760w,
+               /post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/7_hue027c11b15282dbe85dd19d5f7c12da5_59270_e510fa13ee61e59ebd980b064591aec4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;675&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:007 width=70% }&lt;/p&gt;
+&lt;p&gt;Потом, я отправил этот репозиторий в GitHub. (рис. [-@fig:008])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Repository on GitHub&#34; srcset=&#34;
+               /post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_400ca274e3861cf766fd79e3e2811714.webp 400w,
+               /post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_e3fc838cd11b92e27ba4911c399a21d6.webp 760w,
+               /post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/repot_lab_2/image/8_hu1388990f6934c2c7cf482087e0015540_91853_400ca274e3861cf766fd79e3e2811714.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;661&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:008 width=70% }&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;В ходе этого лабораторного занятия мы получили элементарные знания о системах контроля версий, в частности о GitHub.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report of the lab4</title>
+      <link>https://example.com/post/report_lab_4/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/report_lab_4/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Приобретение практических навыков взаимодействия пользователя с системой по-
+средством командной строки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ход-работы&#34;&gt;Ход Работы&lt;/h1&gt;
+&lt;p&gt;Определил полное имя вашего домашнего каталога (рис. [-@fig:001])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;домашный каталог&#34; srcset=&#34;
+               /post/report_lab_4/image/1_hu2a775d06c3ed58bd2cda3a89234182b3_193642_9b3700e6aba1971f57c733a0e969a68f.webp 400w,
+               /post/report_lab_4/image/1_hu2a775d06c3ed58bd2cda3a89234182b3_193642_378840bbfab21952796b966d40e7cc2c.webp 760w,
+               /post/report_lab_4/image/1_hu2a775d06c3ed58bd2cda3a89234182b3_193642_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/1_hu2a775d06c3ed58bd2cda3a89234182b3_193642_9b3700e6aba1971f57c733a0e969a68f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:001 width=70% }&lt;/p&gt;
+&lt;p&gt;Переместил в каталоге /tmp (рис. [-@fig:002])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Folder /tmp&#34; srcset=&#34;
+               /post/report_lab_4/image/2_hu80f31499b273b7983085241943af8a79_196052_815c5c8368baa2a58f66d2a179f4b77f.webp 400w,
+               /post/report_lab_4/image/2_hu80f31499b273b7983085241943af8a79_196052_fec550227b06afbcea9b5a24fe5acc70.webp 760w,
+               /post/report_lab_4/image/2_hu80f31499b273b7983085241943af8a79_196052_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/2_hu80f31499b273b7983085241943af8a79_196052_815c5c8368baa2a58f66d2a179f4b77f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:002 width=70% }&lt;/p&gt;
+&lt;p&gt;Посмотрел содержание каталога /tmp (рис. [-@fig:003])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Content /tmp&#34; srcset=&#34;
+               /post/report_lab_4/image/3_hu9cf6902effb03cef7490d2863e0658fc_321905_39c82de794f12463075df89c48d9cb90.webp 400w,
+               /post/report_lab_4/image/3_hu9cf6902effb03cef7490d2863e0658fc_321905_93b32693706a0822972fc670eac5b4d5.webp 760w,
+               /post/report_lab_4/image/3_hu9cf6902effb03cef7490d2863e0658fc_321905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/3_hu9cf6902effb03cef7490d2863e0658fc_321905_39c82de794f12463075df89c48d9cb90.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:003 width=70% }&lt;/p&gt;
+&lt;p&gt;Посмотрел Содержание домашнего каталога  (рис. [-@fig:004])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Содержание домашнего каталога&#34; srcset=&#34;
+               /post/report_lab_4/image/4_hu5bfd512c8a8bc5fc3cb3fc4a52c8f3ee_300985_14cdf99098b2bfd63b2af0f2d0ded9c2.webp 400w,
+               /post/report_lab_4/image/4_hu5bfd512c8a8bc5fc3cb3fc4a52c8f3ee_300985_2a150e5eba2a1e817b6c4de9ed6a3937.webp 760w,
+               /post/report_lab_4/image/4_hu5bfd512c8a8bc5fc3cb3fc4a52c8f3ee_300985_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/4_hu5bfd512c8a8bc5fc3cb3fc4a52c8f3ee_300985_14cdf99098b2bfd63b2af0f2d0ded9c2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:004 width=70% }&lt;/p&gt;
+&lt;p&gt;Создал каталог newdir при помощи команда mkdir (рис. [-@fig:005])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Каталог newdir&#34; srcset=&#34;
+               /post/report_lab_4/image/5_hufb049708259b30698e7d404d009d93d0_299383_372dda4c6ee0fc0d1da3d53b0a94c96a.webp 400w,
+               /post/report_lab_4/image/5_hufb049708259b30698e7d404d009d93d0_299383_f708bca91ae785d334fc540d9c9dd05b.webp 760w,
+               /post/report_lab_4/image/5_hufb049708259b30698e7d404d009d93d0_299383_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/5_hufb049708259b30698e7d404d009d93d0_299383_372dda4c6ee0fc0d1da3d53b0a94c96a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:005 width=70% }&lt;/p&gt;
+&lt;p&gt;Создал подкаталог morefun (рис. [-@fig:006])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Подкаталог morefun&#34; srcset=&#34;
+               /post/report_lab_4/image/6_hu92baa899d478a7eb5cf377922c68d716_81526_767ad1d617f280fd6a8d744f5d6eca8a.webp 400w,
+               /post/report_lab_4/image/6_hu92baa899d478a7eb5cf377922c68d716_81526_14f311c66bbe00610e5f9e9853879956.webp 760w,
+               /post/report_lab_4/image/6_hu92baa899d478a7eb5cf377922c68d716_81526_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/6_hu92baa899d478a7eb5cf377922c68d716_81526_767ad1d617f280fd6a8d744f5d6eca8a.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:006 width=70% }&lt;/p&gt;
+&lt;p&gt;Создал каталоги letters memos misk (рис. [-@fig:007])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Каталоги letters memos misk&#34; srcset=&#34;
+               /post/report_lab_4/image/7_hud636b6282a6c3b717856e8df515e7fcd_296152_75e3e0973117bf3ae6f5e9a311901cad.webp 400w,
+               /post/report_lab_4/image/7_hud636b6282a6c3b717856e8df515e7fcd_296152_d9562500c232f2dd8d25bae4b385be34.webp 760w,
+               /post/report_lab_4/image/7_hud636b6282a6c3b717856e8df515e7fcd_296152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/7_hud636b6282a6c3b717856e8df515e7fcd_296152_75e3e0973117bf3ae6f5e9a311901cad.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:007 width=70% }&lt;/p&gt;
+&lt;p&gt;Информациии о команде ls при помощи команда man (рис. [-@fig:008])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;man ls&#34; srcset=&#34;
+               /post/report_lab_4/image/8_hu746af1c26e548ece6de412edfe00f9fc_237334_9045eba096f244898af0db4f3156edd8.webp 400w,
+               /post/report_lab_4/image/8_hu746af1c26e548ece6de412edfe00f9fc_237334_cc40f1ad47d813569ee8bcc56aec635d.webp 760w,
+               /post/report_lab_4/image/8_hu746af1c26e548ece6de412edfe00f9fc_237334_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/8_hu746af1c26e548ece6de412edfe00f9fc_237334_9045eba096f244898af0db4f3156edd8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:008 width=70% }&lt;/p&gt;
+&lt;p&gt;Информациии о команде cd, pwd, mkdir, rmdir, rm при помощи команда man (рис. [-@fig:009])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;man cd/ man pwd/ man mkdir &amp;amp;hellip;&#34; srcset=&#34;
+               /post/report_lab_4/image/9_hu7207e27a2059e7384e8584ba8ca60b2c_121550_fc373b082752b9805d50482113a34d14.webp 400w,
+               /post/report_lab_4/image/9_hu7207e27a2059e7384e8584ba8ca60b2c_121550_61beedbdb1f2e3208e93956da318941d.webp 760w,
+               /post/report_lab_4/image/9_hu7207e27a2059e7384e8584ba8ca60b2c_121550_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/9_hu7207e27a2059e7384e8584ba8ca60b2c_121550_fc373b082752b9805d50482113a34d14.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:009 width=70% }&lt;/p&gt;
+&lt;p&gt;Исползовал команд history (рис. [-@fig:010])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Command history&#34; srcset=&#34;
+               /post/report_lab_4/image/10_hu4ac8c472e1f451030c107db1a0ffec33_224787_f1f3f1100f94fce3c2bb7bd4d80030a2.webp 400w,
+               /post/report_lab_4/image/10_hu4ac8c472e1f451030c107db1a0ffec33_224787_5ffa5fb161d121f3f368faad1da20387.webp 760w,
+               /post/report_lab_4/image/10_hu4ac8c472e1f451030c107db1a0ffec33_224787_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/10_hu4ac8c472e1f451030c107db1a0ffec33_224787_f1f3f1100f94fce3c2bb7bd4d80030a2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:010 width=70% }&lt;/p&gt;
+&lt;p&gt;Исползовал конструкци !&amp;lt;Номер_команды&amp;gt; (рис. [-@fig:011])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;!&amp;amp;lt;Номер_команды&amp;amp;gt;&#34; srcset=&#34;
+               /post/report_lab_4/image/11_hu4ac8c472e1f451030c107db1a0ffec33_225919_e26839990cb5f8379a6296c9b02dcd0c.webp 400w,
+               /post/report_lab_4/image/11_hu4ac8c472e1f451030c107db1a0ffec33_225919_373ef25c4c8dd395abbf5730e6113430.webp 760w,
+               /post/report_lab_4/image/11_hu4ac8c472e1f451030c107db1a0ffec33_225919_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/11_hu4ac8c472e1f451030c107db1a0ffec33_225919_e26839990cb5f8379a6296c9b02dcd0c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:011 width=70% }&lt;/p&gt;
+&lt;p&gt;Исползовал конструкци !&amp;lt;номер_команды&amp;gt;:s/&amp;lt;что_меняем&amp;gt;/&amp;lt;на_что_меняем&amp;gt; (рис. [-@fig:012])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;!&amp;amp;lt;номер_команды&amp;amp;gt;:s/&amp;amp;lt;что_меняем&amp;amp;gt;/&amp;amp;lt;на_что_меняем&amp;amp;gt;&#34; srcset=&#34;
+               /post/report_lab_4/image/12_hu39e741451fd5fb93d49c39c5c60356a3_206093_17ae58e3a3d29ebf7858fcacf4e8db2d.webp 400w,
+               /post/report_lab_4/image/12_hu39e741451fd5fb93d49c39c5c60356a3_206093_eec163b11a8e7d064d97fbc845520225.webp 760w,
+               /post/report_lab_4/image/12_hu39e741451fd5fb93d49c39c5c60356a3_206093_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab_4/image/12_hu39e741451fd5fb93d49c39c5c60356a3_206093_17ae58e3a3d29ebf7858fcacf4e8db2d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:012 width=70% }&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;В ходе этой лабораторной работы мы научились взаимодействовать с системой через строки команд для вызова из терминала.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control and Git</title>
+      <link>https://example.com/post/version_git/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/version_git/</guid>
+      <description>&lt;h1 id=&#34;about-version-control&#34;&gt;About Version Control&lt;/h1&gt;
+&lt;p&gt;What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.&lt;/p&gt;
+&lt;p&gt;If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
