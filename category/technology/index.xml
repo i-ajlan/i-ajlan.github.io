@@ -63,10 +63,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fedora&#34; srcset=&#34;
-               /post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_0be2ccf9ec668943b7fe7d2172f4df21.webp 400w,
+               /post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_6d2ac1b0045a81b909fa64803948b6d1.webp 400w,
                /post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_9817f327b3892ca7eed87eb1cc994c79.webp 760w,
                /post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_0be2ccf9ec668943b7fe7d2172f4df21.webp&#34;
+               src=&#34;https://example.com/post/report_lab1/image/1_huf04511ecde8da9a4ee73be20f5a36a05_81043_6d2ac1b0045a81b909fa64803948b6d1.webp&#34;
                width=&#34;680&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -92,10 +92,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Virtual Box&#34; srcset=&#34;
-               /post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_189508426babd8190b2acdb1e9fa4b3d.webp 400w,
+               /post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_b8d89b4101a5552d43050581ac81df72.webp 400w,
                /post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_6fc33bad90bd173af0849d8d30449af2.webp 760w,
                /post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_189508426babd8190b2acdb1e9fa4b3d.webp&#34;
+               src=&#34;https://example.com/post/report_lab1/image/2_hucf900a613135957374ace82296d319fc_90174_b8d89b4101a5552d43050581ac81df72.webp&#34;
                width=&#34;712&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -121,10 +121,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Configurations&#34; srcset=&#34;
-               /post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_20e8699da1d5a52874bdee1a34b29b60.webp 400w,
+               /post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_86c463df6439a181596895625ef74ac1.webp 400w,
                /post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_e88a48bc6c2107746fdba117f1792289.webp 760w,
                /post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_20e8699da1d5a52874bdee1a34b29b60.webp&#34;
+               src=&#34;https://example.com/post/report_lab1/image/3_hud30d708aa2cd228828b7c8f39655c41b_86807_86c463df6439a181596895625ef74ac1.webp&#34;
                width=&#34;708&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -150,10 +150,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Password&#34; srcset=&#34;
-               /post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_3e94ee441299dbef757cae7dd799e6dc.webp 400w,
+               /post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_2e283343fef3cce2a54af687e04d867a.webp 400w,
                /post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_b2ce0e19927c6b825d1378ed4e0d744b.webp 760w,
                /post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_3e94ee441299dbef757cae7dd799e6dc.webp&#34;
+               src=&#34;https://example.com/post/report_lab1/image/4_hue9844c36fc3e8c1d593768d767663768_69727_2e283343fef3cce2a54af687e04d867a.webp&#34;
                width=&#34;672&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -179,10 +179,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hostnamectl&#34; srcset=&#34;
-               /post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_7cc1c3e8e99994cb8a463efe58e50343.webp 400w,
+               /post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_6a8a180e429ff8fd43581b0f15e16fbe.webp 400w,
                /post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_8b62cadc2494bb6df8e17f4666db46fe.webp 760w,
                /post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_7cc1c3e8e99994cb8a463efe58e50343.webp&#34;
+               src=&#34;https://example.com/post/report_lab1/image/5_hu55194986906bd50ae3b5c4bf46e3d787_193253_6a8a180e429ff8fd43581b0f15e16fbe.webp&#34;
                width=&#34;668&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -208,10 +208,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Command dmesg&#34; srcset=&#34;
-               /post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_fc7b0630eedf70d4aace0b7f624b37b5.webp 400w,
+               /post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_588c353e8789d1b750c1e1688d3d10a3.webp 400w,
                /post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_ac1af6dbef5d5ef90361c7bec27fac1f.webp 760w,
                /post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_fc7b0630eedf70d4aace0b7f624b37b5.webp&#34;
+               src=&#34;https://example.com/post/report_lab1/image/6_huf18bb119446e73f86a88a91c24ae7df2_228533_588c353e8789d1b750c1e1688d3d10a3.webp&#34;
                width=&#34;674&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -258,6 +258,21 @@
 &lt;ul&gt;
 &lt;li&gt;Во время этой лабораторной работы, мы мы научились работать с виртуальной машиной и устанавливать на нее дистрибутив Linux.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://example.com/post/artificial_intelligence/</link>
+      <pubDate>Mon, 13 Jun 2022 19:10:23 +0300</pubDate>
+      <guid>https://example.com/post/artificial_intelligence/</guid>
+      <description>&lt;h1 id=&#34;artificial-intelligence&#34;&gt;Artificial intelligence&lt;/h1&gt;
+&lt;p&gt;Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.&lt;/p&gt;
+&lt;p&gt;The term &amp;ldquo;artificial intelligence&amp;rdquo; had previously been used to describe machines that mimic and display &amp;ldquo;human&amp;rdquo; cognitive skills that are associated with the human mind, such as &amp;ldquo;learning&amp;rdquo; and &amp;ldquo;problem-solving&amp;rdquo;. This definition has since been rejected by major AI researchers who now describe AI in terms of rationality and acting rationally, which does not limit how intelligence can be articulated.&lt;/p&gt;
+&lt;p&gt;AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Tesla), automated decision-making and competing at the highest level in strategic game systems (such as chess and Go).[citation needed] As machines become increasingly capable, tasks considered to require &amp;ldquo;intelligence&amp;rdquo; are often removed from the definition of AI, a phenomenon known as the AI effect. For instance, optical character recognition is frequently excluded from things considered to be AI, having become a routine technology.&lt;/p&gt;
+&lt;p&gt;Artificial intelligence was founded as an academic discipline in 1956, and in the years since has experienced several waves of optimism, followed by disappointment and the loss of funding (known as an &amp;ldquo;AI winter&amp;rdquo;), followed by new approaches, success and renewed funding. AI research has tried and discarded many different approaches since its founding, including simulating the brain, modeling human problem solving, formal logic, large databases of knowledge and imitating animal behavior. In the first decades of the 21st century, highly mathematical-statistical machine learning has dominated the field, and this technique has proved highly successful, helping to solve many challenging problems throughout industry and academia.&lt;/p&gt;
+&lt;p&gt;The various sub-fields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception, and the ability to move and manipulate objects.[c] General intelligence (the ability to solve an arbitrary problem) is among the field&amp;rsquo;s long-term goals.To solve these problems, AI researchers have adapted and integrated a wide range of problem-solving techniques—including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, probability and economics. AI also draws upon computer science, psychology, linguistics, philosophy, and many other fields.&lt;/p&gt;
+&lt;p&gt;The field was founded on the assumption that human intelligence &amp;ldquo;can be so precisely described that a machine can be made to simulate it&amp;rdquo;.This raised philosophical arguments about the mind and the ethical consequences of creating artificial beings endowed with human-like intelligence; these issues have previously been explored by myth, fiction and philosophy since antiquity.[14] Science fiction writers and futurologists have since suggested that AI may become an existential risk to humanity if its rational capacities are not overseen.&lt;/p&gt;
 </description>
     </item>
     

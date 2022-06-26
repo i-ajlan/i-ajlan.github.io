@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>технологии | Академик</title>
+    <link>https://example.com/ru/category/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+      <atom:link href="https://example.com/ru/category/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>технологии</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-Hans</language><lastBuildDate>Mon, 13 Jun 2022 22:07:02 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>технологии</title>
+      <link>https://example.com/ru/category/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+    </image>
+    
+    <item>
+      <title>Make_presentation</title>
+      <link>https://example.com/ru/post/make_presentation/</link>
+      <pubDate>Mon, 13 Jun 2022 22:07:02 +0300</pubDate>
+      <guid>https://example.com/ru/post/make_presentation/</guid>
+      <description>&lt;h1 id=&#34;make-presentation&#34;&gt;Make Presentation&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Проанализируйте свою аудиторию&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Первый шаг в подготовке презентации — узнать больше об аудитории, перед которой вы будете выступать. Это хорошая идея, чтобы получить некоторую информацию о прошлом, ценностях и интересах вашей аудитории, чтобы вы понимали, что члены аудитории могут ожидать от вашей презентации.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Выберите тему&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Далее по возможности выберите тему, которая интересна аудитории и вам. Будет намного проще сделать презентацию, которая будет актуальна для аудитории, и приятнее исследовать интересующую вас тему.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Define the objective of the presentation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once you have selected a topic, write the objective of the presentation in a single concise statement. The objective needs to specify exactly what you want your audience to learn from your presentation. Base the objective and the level of the content on the amount of time you have for the presentation and the background knowledge of the audience. Use this statement to help keep you focused as you research and develop the presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Languge_markdown</title>
+      <link>https://example.com/ru/post/languge_markdown/</link>
+      <pubDate>Mon, 13 Jun 2022 19:10:23 +0300</pubDate>
+      <guid>https://example.com/ru/post/languge_markdown/</guid>
+      <description>&lt;h1 id=&#34;markodown&#34;&gt;Markodown&lt;/h1&gt;
+&lt;p&gt;Markdown — это облегченный язык разметки для создания форматированного текста с помощью текстового редактора. Джон Грубер и Аарон Шварц создали Markdown в 2004 году как язык разметки, привлекательный для читателей в форме исходного кода.[9] Markdown широко используется в блогах, мгновенных сообщениях, онлайн-форумах, программном обеспечении для совместной работы, страницах документации и файлах readme.&lt;/p&gt;
+&lt;p&gt;Первоначальное описание Markdown[10] содержало двусмысленность и поднимало вопросы без ответов, в результате чего реализации как преднамеренно, так и случайно отличались от исходной версии. Это было решено в 2014 году, когда давние участники Markdown выпустили CommonMark, недвусмысленную спецификацию и набор тестов для Markdown.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

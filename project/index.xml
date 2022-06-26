@@ -5,12 +5,47 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jun 2022 19:45:49 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://example.com/project/javascript/</link>
+      <pubDate>Sat, 25 Jun 2022 19:45:49 +0300</pubDate>
+      <guid>https://example.com/project/javascript/</guid>
+      <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
+&lt;p&gt;JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users&amp;rsquo; devices.&lt;/p&gt;
+&lt;p&gt;JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).&lt;/p&gt;
+&lt;p&gt;The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.&lt;/p&gt;
+&lt;p&gt;JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.&lt;/p&gt;
+&lt;p&gt;Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-//&#34; data-lang=&#34;//&#34;&gt;// This is frowned upon, as it can overwrite the document if the document is fully loaded.
+document.write(&amp;#39;foo&amp;#39;);
+
+// Elements can be made too. First, they have to be created in the DOM.
+const myElem = document.createElement(&amp;#39;span&amp;#39;);
+
+// Attributes like classes and the id can be set as well
+myElem.classList.add(&amp;#39;foo&amp;#39;);
+myElem.id = &amp;#39;bar&amp;#39;;
+
+// For here, the attribute will look like this: &amp;lt;span data-attr=&amp;#34;baz&amp;#34;&amp;gt;&amp;lt;/span&amp;gt;
+myElem.setAttribute(&amp;#39;data-atrr&amp;#39;, &amp;#39;baz&amp;#39;);
+
+// Finally append it as a child element to the &amp;lt;body&amp;gt; in the HTML
+document.body.appendChild(myElem);
+
+// Elements can be imperitavely grabbed with querySelector for one element, or querySelectorAll for multiple elements that can be loopped with forEach
+document.querySelector(&amp;#39;.class&amp;#39;);
+document.querySelector(&amp;#39;#id&amp;#39;);
+document.querySelector(&amp;#39;[data-other]&amp;#39;);
+document.querySelectorAll(&amp;#39;.multiple&amp;#39;);
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
     
     <item>
       <title>Example Project</title>

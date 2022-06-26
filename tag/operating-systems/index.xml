@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operating Systems | Academic</title>
+    <link>https://example.com/tag/operating-systems/</link>
+      <atom:link href="https://example.com/tag/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Operating Systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jun 2022 20:07:55 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Operating Systems</title>
+      <link>https://example.com/tag/operating-systems/</link>
+    </image>
+    
+    <item>
+      <title>lab6</title>
+      <link>https://example.com/post/lab6/</link>
+      <pubDate>Sat, 25 Jun 2022 20:07:55 +0300</pubDate>
+      <guid>https://example.com/post/lab6/</guid>
+      <description>&lt;p&gt;Цель работы&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ознакомление с инструментами поиска файлов и фильтрации текстовых данных. Приобретение практических навыков: по управлению процессами (и заданиями), по проверке использования диска и обслуживанию файловых систем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h1&gt;
+&lt;p&gt;Запишил в файл file.txt названия файлов,содержащихся в каталоге /etc.Допишил в этот же файл названия файлов,содержащихся в вашем домашнем каталоге. (рис. [-@fig:002])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Файл file.txt&#34; srcset=&#34;
+               /post/lab6/image/2_hu4d209d38823cb6274531d2cf2518c835_160871_ae9c60b67b20f2a8999fdec1aaeeedba.webp 400w,
+               /post/lab6/image/2_hu4d209d38823cb6274531d2cf2518c835_160871_d0ff30f34ca56829002ecc200b4e1e92.webp 760w,
+               /post/lab6/image/2_hu4d209d38823cb6274531d2cf2518c835_160871_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/2_hu4d209d38823cb6274531d2cf2518c835_160871_ae9c60b67b20f2a8999fdec1aaeeedba.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:002 width=70% }&lt;/p&gt;
+&lt;p&gt;Выведил имена всех файлов из file.txt,имеющих расширение .conf,после чего запишите их в новыйтекстовой файл conf.txt.(рис. [-@fig:003])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;расширение .conf&#34; srcset=&#34;
+               /post/lab6/image/3_hu143c9fb13d8a54cab7e66b409f8e1287_176077_d627a614a0dac286f20a55009d150f21.webp 400w,
+               /post/lab6/image/3_hu143c9fb13d8a54cab7e66b409f8e1287_176077_42cb1ff401c1454b0d8f18c85b28ed4a.webp 760w,
+               /post/lab6/image/3_hu143c9fb13d8a54cab7e66b409f8e1287_176077_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/3_hu143c9fb13d8a54cab7e66b409f8e1287_176077_d627a614a0dac286f20a55009d150f21.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:003 width=70% }&lt;/p&gt;
+&lt;p&gt;Определил,какие файлы в вашем домашнем каталоге имеют имена,начинавшиеся с символа c (рис. [-@fig:004])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;начинавшиеся с символа c&#34; srcset=&#34;
+               /post/lab6/image/4_hua7012bcab6764cf6e01f033fe57899fb_271713_66d8e68949d844b2f6caebc3b78d0f1b.webp 400w,
+               /post/lab6/image/4_hua7012bcab6764cf6e01f033fe57899fb_271713_8bd1542ef21c7d18e3fad56a5ad73272.webp 760w,
+               /post/lab6/image/4_hua7012bcab6764cf6e01f033fe57899fb_271713_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/4_hua7012bcab6764cf6e01f033fe57899fb_271713_66d8e68949d844b2f6caebc3b78d0f1b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:004 width=70% }&lt;/p&gt;
+&lt;p&gt;Выведил на экран (по странично) имена файлов из каталога /etc,начинающиеся с символа h (рис. [-@fig:005])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;начинающиеся с символа h&#34; srcset=&#34;
+               /post/lab6/image/5_huf245c44ed0cf897302eda68f4ba050e3_160007_a9d486d0de7468fbfbceca2caf438f32.webp 400w,
+               /post/lab6/image/5_huf245c44ed0cf897302eda68f4ba050e3_160007_6561c9efdc28adae2e50192a04626829.webp 760w,
+               /post/lab6/image/5_huf245c44ed0cf897302eda68f4ba050e3_160007_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/5_huf245c44ed0cf897302eda68f4ba050e3_160007_a9d486d0de7468fbfbceca2caf438f32.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:005 width=70% }&lt;/p&gt;
+&lt;p&gt;Запустил в фоновом режиме процесс,который будетзаписывать в файл ~/logfile файлы,имена которых начинаются с log (рис. [-@fig:006])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Запустить в фоновом режиме&#34; srcset=&#34;
+               /post/lab6/image/6_hu5df5cfef1ff051bc3162df6fc1494a41_214468_e6a47df0757e60069ef981c9ce882454.webp 400w,
+               /post/lab6/image/6_hu5df5cfef1ff051bc3162df6fc1494a41_214468_bf39173a6709715d1160a8a9b574788b.webp 760w,
+               /post/lab6/image/6_hu5df5cfef1ff051bc3162df6fc1494a41_214468_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/6_hu5df5cfef1ff051bc3162df6fc1494a41_214468_e6a47df0757e60069ef981c9ce882454.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:006 width=70% }&lt;/p&gt;
+&lt;p&gt;Удалил файл ~/logfile. (рис. [-@fig:007])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Удаление файла&#34; srcset=&#34;
+               /post/lab6/image/7_hu7a485f4c87f55826d499beeaf84b9c7d_217125_f14d16b5871a4cbe13dd883be50f4f42.webp 400w,
+               /post/lab6/image/7_hu7a485f4c87f55826d499beeaf84b9c7d_217125_d83e3705ec991d02f34eee228da31cc3.webp 760w,
+               /post/lab6/image/7_hu7a485f4c87f55826d499beeaf84b9c7d_217125_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/7_hu7a485f4c87f55826d499beeaf84b9c7d_217125_f14d16b5871a4cbe13dd883be50f4f42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:007 width=70% }&lt;/p&gt;
+&lt;p&gt;Запустил из консоли в фоновом режиме редактор gedit. (рис. [-@fig:008])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;редактор gedit&#34; srcset=&#34;
+               /post/lab6/image/8_hu7a485f4c87f55826d499beeaf84b9c7d_220192_13c13c9e53ef0c6b0faf0bd3715a1652.webp 400w,
+               /post/lab6/image/8_hu7a485f4c87f55826d499beeaf84b9c7d_220192_7c282f72c3e614b1ac75c292541bf469.webp 760w,
+               /post/lab6/image/8_hu7a485f4c87f55826d499beeaf84b9c7d_220192_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/8_hu7a485f4c87f55826d499beeaf84b9c7d_220192_13c13c9e53ef0c6b0faf0bd3715a1652.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:008 width=70% }&lt;/p&gt;
+&lt;p&gt;Определил идентификаторпроцесса gedit,используякомандуps,конвейерифильтр grep. (рис. [-@fig:009])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;идентификаторпроцесса gedit&#34; srcset=&#34;
+               /post/lab6/image/9_hu449fa9f63eb0357ae6511b39be50292e_224983_6d855ffbb8bdbdebbc57e221d66243c5.webp 400w,
+               /post/lab6/image/9_hu449fa9f63eb0357ae6511b39be50292e_224983_ac8aaa842bbbc99c66a7e06a5fc8199f.webp 760w,
+               /post/lab6/image/9_hu449fa9f63eb0357ae6511b39be50292e_224983_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/9_hu449fa9f63eb0357ae6511b39be50292e_224983_6d855ffbb8bdbdebbc57e221d66243c5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:009 width=70% }&lt;/p&gt;
+&lt;p&gt;Прочтил справку (man) команды kill, после чего используйте её для завершения процесса gedit (рис. [-@fig:010])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;команда kill&#34; srcset=&#34;
+               /post/lab6/image/10_hu47e03264881391cdb40876c748dd954f_166520_d0023bd7a08a3ecc08df0b4aca002b77.webp 400w,
+               /post/lab6/image/10_hu47e03264881391cdb40876c748dd954f_166520_e247eb68d9f4c086587ff8c0a1e82c7d.webp 760w,
+               /post/lab6/image/10_hu47e03264881391cdb40876c748dd954f_166520_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/10_hu47e03264881391cdb40876c748dd954f_166520_d0023bd7a08a3ecc08df0b4aca002b77.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:010 width=70% }&lt;/p&gt;
+&lt;p&gt;Выполнил команды df и du,предварительно получив более подробную информацию об этих командах, с помощью команды man(рис. [-@fig:011])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Команды df и du&#34; srcset=&#34;
+               /post/lab6/image/11_hu44aa958bd752507b94a0d3506f6f52bb_230192_dcfbd478a0454f6647de640bde3ee1c8.webp 400w,
+               /post/lab6/image/11_hu44aa958bd752507b94a0d3506f6f52bb_230192_f0e9d4217d831ee08b9709c3040e14e5.webp 760w,
+               /post/lab6/image/11_hu44aa958bd752507b94a0d3506f6f52bb_230192_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/11_hu44aa958bd752507b94a0d3506f6f52bb_230192_dcfbd478a0454f6647de640bde3ee1c8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:011 width=70% }&lt;/p&gt;
+&lt;p&gt;Воспользовавшись справкой команды find,выведил имена всех директорий,имеющихся в вашем домашнем каталоге (рис. [-@fig:012])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;команда find&#34; srcset=&#34;
+               /post/lab6/image/12_hu8a9f5a7d9a6dbf2089eba484823e0f85_245446_96fe13ee6aca74327f09ea922a73bdcb.webp 400w,
+               /post/lab6/image/12_hu8a9f5a7d9a6dbf2089eba484823e0f85_245446_3e1a3f61683d9b39c756647b8f43d878.webp 760w,
+               /post/lab6/image/12_hu8a9f5a7d9a6dbf2089eba484823e0f85_245446_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lab6/image/12_hu8a9f5a7d9a6dbf2089eba484823e0f85_245446_96fe13ee6aca74327f09ea922a73bdcb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:012 width=70% }&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;В ходе этого лабораторного занятия мы еще больше углубили свои знания, используя новые команды в терминале для взаимодействия с файловой системой Linux.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report_lab5</title>
+      <link>https://example.com/post/report_lab5/</link>
+      <pubDate>Sat, 25 Jun 2022 20:07:55 +0300</pubDate>
+      <guid>https://example.com/post/report_lab5/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ознакомление с файловой системой Linux, её структурой, именами и содержанием каталогов. Приобретение практических навыков по применению команд для работы с файлами и каталогами,по управлению процессами (и работами),по проверке использования диска и обслуживанию файловой системы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h1&gt;
+&lt;p&gt;Выполнитевсепримеры,приведённыевпервойчастиописаниялабораторнойработы. (рис. [-@fig:001])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Примеры&#34; srcset=&#34;
+               /post/report_lab5/image/1_hu9b7efd39402e252d1da64e19c5eb8e13_196645_452519977d2e97c62fcc5ca43329cce9.webp 400w,
+               /post/report_lab5/image/1_hu9b7efd39402e252d1da64e19c5eb8e13_196645_1cec6c7cfcf70cd5665c772d6e79c05b.webp 760w,
+               /post/report_lab5/image/1_hu9b7efd39402e252d1da64e19c5eb8e13_196645_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/1_hu9b7efd39402e252d1da64e19c5eb8e13_196645_452519977d2e97c62fcc5ca43329cce9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:001 width=70% }&lt;/p&gt;
+&lt;p&gt;Скопировал файл /usr/include/sys/io.h в домашний каталоги назовите его equipment. (рис. [-@fig:002])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Файл io.h&#34; srcset=&#34;
+               /post/report_lab5/image/2_hu3f3f856c192d55aa5e19bbb37cd8f555_205024_951028fd9557996a7fc4a05162600c29.webp 400w,
+               /post/report_lab5/image/2_hu3f3f856c192d55aa5e19bbb37cd8f555_205024_1b1bfe86cdc112eb4ea7aa04235e219d.webp 760w,
+               /post/report_lab5/image/2_hu3f3f856c192d55aa5e19bbb37cd8f555_205024_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/2_hu3f3f856c192d55aa5e19bbb37cd8f555_205024_951028fd9557996a7fc4a05162600c29.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:002 width=70% }&lt;/p&gt;
+&lt;p&gt;Домашнем каталоге создал директорию ~/ski.plases. (рис. [-@fig:003])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Директорию ~/ski.plases.&#34; srcset=&#34;
+               /post/report_lab5/image/3_hu039d40b115b97790c77709bab180b651_180568_8c38cec8b36c3492ce212542d9986cee.webp 400w,
+               /post/report_lab5/image/3_hu039d40b115b97790c77709bab180b651_180568_4ba58523b988455e19839bb2302c4f17.webp 760w,
+               /post/report_lab5/image/3_hu039d40b115b97790c77709bab180b651_180568_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/3_hu039d40b115b97790c77709bab180b651_180568_8c38cec8b36c3492ce212542d9986cee.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:003 width=70% }&lt;/p&gt;
+&lt;p&gt;Переместил файл equipment в каталог ~/ski.plases. (рис. [-@fig:004])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Перемешение Файла&#34; srcset=&#34;
+               /post/report_lab5/image/4_hudf80892fbc520a504b46ff0f6f16b8f7_186707_896bce9ab18aea2f68edbad89b68d416.webp 400w,
+               /post/report_lab5/image/4_hudf80892fbc520a504b46ff0f6f16b8f7_186707_cc8a85f2dca9bd46d3d113fca486cea0.webp 760w,
+               /post/report_lab5/image/4_hudf80892fbc520a504b46ff0f6f16b8f7_186707_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/4_hudf80892fbc520a504b46ff0f6f16b8f7_186707_896bce9ab18aea2f68edbad89b68d416.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:004 width=70% }&lt;/p&gt;
+&lt;p&gt;Переименовал файл ~/ski.plases/equipment в /ski.plases/equiplist. (рис. [-@fig:005])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Переменование Файла&#34; srcset=&#34;
+               /post/report_lab5/image/5_hu74def6afb06800187511a6138f0abe16_190363_5380d3e19efd45f1cb8822bda2f6d322.webp 400w,
+               /post/report_lab5/image/5_hu74def6afb06800187511a6138f0abe16_190363_5b616db81abe5f8b0609ca15d6282385.webp 760w,
+               /post/report_lab5/image/5_hu74def6afb06800187511a6138f0abe16_190363_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/5_hu74def6afb06800187511a6138f0abe16_190363_5380d3e19efd45f1cb8822bda2f6d322.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:005 width=70% }&lt;/p&gt;
+&lt;p&gt;Создал в домашнем каталоге файл abc1 и скопировал его в каталог ~/ski.plases,назовите его equiplist2 (рис. [-@fig:006])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Создание и копирование файла&#34; srcset=&#34;
+               /post/report_lab5/image/6_hue79af2a0cc83d9aa1c1035d07736ba8a_197807_071c1398fa8dffe87ae6070c1b3468bd.webp 400w,
+               /post/report_lab5/image/6_hue79af2a0cc83d9aa1c1035d07736ba8a_197807_4b0548801f3423a055f399851948cc39.webp 760w,
+               /post/report_lab5/image/6_hue79af2a0cc83d9aa1c1035d07736ba8a_197807_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/6_hue79af2a0cc83d9aa1c1035d07736ba8a_197807_071c1398fa8dffe87ae6070c1b3468bd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:006 width=70% }&lt;/p&gt;
+&lt;p&gt;Создал каталог с именем equipment в каталоге ~/ski.plases. (рис. [-@fig:007])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Каталог equipment&#34; srcset=&#34;
+               /post/report_lab5/image/7_hu0666632fd4955db15538b188c2ad38a7_210743_bfd997a6a6d157c28ffe9a59499f8fcc.webp 400w,
+               /post/report_lab5/image/7_hu0666632fd4955db15538b188c2ad38a7_210743_c98bbb1b3a4fcc4f925dc1a0b4c0f788.webp 760w,
+               /post/report_lab5/image/7_hu0666632fd4955db15538b188c2ad38a7_210743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/7_hu0666632fd4955db15538b188c2ad38a7_210743_bfd997a6a6d157c28ffe9a59499f8fcc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:007 width=70% }&lt;/p&gt;
+&lt;p&gt;Переместил файлы ~/ski.plases/equiplist и equiplist2 в каталог /ski.plases/equipment. (рис. [-@fig:008])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Перемещение Файла&#34; srcset=&#34;
+               /post/report_lab5/image/8_hu39ef7d72995747201097b8e5e9eaf23a_240294_2dedc692728737f6a3e212b3168cc296.webp 400w,
+               /post/report_lab5/image/8_hu39ef7d72995747201097b8e5e9eaf23a_240294_ce4e96929322e9c9cf9fcad19fdb79af.webp 760w,
+               /post/report_lab5/image/8_hu39ef7d72995747201097b8e5e9eaf23a_240294_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/8_hu39ef7d72995747201097b8e5e9eaf23a_240294_2dedc692728737f6a3e212b3168cc296.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:008 width=70% }&lt;/p&gt;
+&lt;p&gt;Создал и переместил каталог ~/newdir в каталог /ski.plases и назовите его plans. (рис. [-@fig:009])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Создание и перемещение каталога&#34; srcset=&#34;
+               /post/report_lab5/image/9_hu16eafa68c11bf1dbe8e17574a35439a1_246177_70e3318ffa8305678c40f52579e1971d.webp 400w,
+               /post/report_lab5/image/9_hu16eafa68c11bf1dbe8e17574a35439a1_246177_bfa0c5cd0e7d5b1325fb23dd0b698c27.webp 760w,
+               /post/report_lab5/image/9_hu16eafa68c11bf1dbe8e17574a35439a1_246177_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/9_hu16eafa68c11bf1dbe8e17574a35439a1_246177_70e3318ffa8305678c40f52579e1971d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:009 width=70% }&lt;/p&gt;
+&lt;p&gt;Мы изменили права доступа эти файли и каталоги. (рис. [-@fig:010])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Права доступа&#34; srcset=&#34;
+               /post/report_lab5/image/10_huf6840fd1e05505bcc5891f1143c9666e_259153_1ec191f308f3ed7d116ad1596e82b7bd.webp 400w,
+               /post/report_lab5/image/10_huf6840fd1e05505bcc5891f1143c9666e_259153_1634da041db3a221f9e746211b9d772b.webp 760w,
+               /post/report_lab5/image/10_huf6840fd1e05505bcc5891f1143c9666e_259153_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/10_huf6840fd1e05505bcc5891f1143c9666e_259153_1ec191f308f3ed7d116ad1596e82b7bd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:010 width=70% }&lt;/p&gt;
+&lt;p&gt;Просмотрил содержимое файла /etc/password. (рис. [-@fig:011])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Файл /etc/password&#34; srcset=&#34;
+               /post/report_lab5/image/11_hu1e6c65a3bda3155a696de02486008efe_262949_1a41d682bffbb98f1419148486fac409.webp 400w,
+               /post/report_lab5/image/11_hu1e6c65a3bda3155a696de02486008efe_262949_51ed0adbc47f1cb2d6da20538c53ca0a.webp 760w,
+               /post/report_lab5/image/11_hu1e6c65a3bda3155a696de02486008efe_262949_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/11_hu1e6c65a3bda3155a696de02486008efe_262949_1a41d682bffbb98f1419148486fac409.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:011 width=70% }&lt;/p&gt;
+&lt;p&gt;Скопировал файл ~/feathers в файл /file.old. (рис. [-@fig:012])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Копирование файла&#34; srcset=&#34;
+               /post/report_lab5/image/12_hu0556899908ac805c4957b0756d8fd48b_260213_5ceb2a1c04d8bb03bb48a862ddb1af94.webp 400w,
+               /post/report_lab5/image/12_hu0556899908ac805c4957b0756d8fd48b_260213_97e91b3acee32532a34b82e0abe951bd.webp 760w,
+               /post/report_lab5/image/12_hu0556899908ac805c4957b0756d8fd48b_260213_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/12_hu0556899908ac805c4957b0756d8fd48b_260213_5ceb2a1c04d8bb03bb48a862ddb1af94.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:012 width=70% }&lt;/p&gt;
+&lt;p&gt;Скопировал каталог ~/play в каталог /fun. (рис. [-@fig:013])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Копирование каталога&#34; srcset=&#34;
+               /post/report_lab5/image/13_hu565ac401c2473721cc3bb5a1b941a9da_264796_9d9aaaebf586e705543e46d76b9f69f0.webp 400w,
+               /post/report_lab5/image/13_hu565ac401c2473721cc3bb5a1b941a9da_264796_2693be6faa3bd1287d15d26b92e57905.webp 760w,
+               /post/report_lab5/image/13_hu565ac401c2473721cc3bb5a1b941a9da_264796_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/13_hu565ac401c2473721cc3bb5a1b941a9da_264796_9d9aaaebf586e705543e46d76b9f69f0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:013 width=70% }&lt;/p&gt;
+&lt;p&gt;Переместил файл ~/file.old в каталог /play. (рис. [-@fig:014])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Перемещение файла&#34; srcset=&#34;
+               /post/report_lab5/image/14_hu1e8543a28c341867f83306aa41de6f21_265321_db9ae8689eb4642c12c73f7f21c63126.webp 400w,
+               /post/report_lab5/image/14_hu1e8543a28c341867f83306aa41de6f21_265321_8ac998bc9f3253b3844b51e878aa426e.webp 760w,
+               /post/report_lab5/image/14_hu1e8543a28c341867f83306aa41de6f21_265321_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/report_lab5/image/14_hu1e8543a28c341867f83306aa41de6f21_265321_db9ae8689eb4642c12c73f7f21c63126.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:014 width=70% }&lt;/p&gt;
+&lt;p&gt;Прочитал man по командам mount,fsck,mkfs,kill (рис. [-@fig:015])&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;В ходе этого лабораторного занятия мы углубили свои знания об использовании команд, используемых в терминале, для взаимодействия с файловой системой Linux.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
